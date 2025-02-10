@@ -2,10 +2,7 @@ package main
 
 import "fmt"
 
-// 11. WAP to find given number is Buzz Number or not
-// Numbers that are divisible by 7 or end with 7.
-// For example, 57 is a buzz number because the number ends with seven.
-// Another example is 28 because the number is divisible by seven.
+// 9. WAP to find given number is Buzz Number or not Numbers that are divisible by 7 or end with 7. For example, 57 is a buzz number because the number ends with seven. Another example is 28 because the number is divisible by seven.
 func main() {
 	BuzzNumber(21)
 }
