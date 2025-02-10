@@ -4,3 +4,4 @@
 4. WAP to Display Odd Numbers From 1 to 100
 5. WAP to swap 2 numbers with 3 variables
 6. WAP to Find Largest of Three Numbers
+7. WAP to Generate Multiplication Table
