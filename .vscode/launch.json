@@ -6,11 +6,11 @@
     "configurations": [
 
         {
-            "name": "Launch Package",
+            "name": "number series",
             "type": "go",
             "request": "launch",
             "mode": "debug",
-            "program": "${workspaceFolder}/numberSeries/main.go"
+            "program": "${workspaceFolder}/numberSeries/01/01.go"
         }
     ]
 }

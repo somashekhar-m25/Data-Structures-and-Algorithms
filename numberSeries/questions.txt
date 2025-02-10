@@ -1,1 +1,2 @@
 1. WAP to find a Number is Positive or Negative
+2. WAP to find a Number is Even or Odd
