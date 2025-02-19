@@ -9,3 +9,4 @@
 9. WAP to find given number is Buzz Number or not Numbers that are divisible by 7 or end with 7. For example, 57 is a buzz number because the number ends with seven. Another example is 28 because the number is divisible by seven.
 10. How to Reverse a Number?
 11. Palindrome Number A palindrome number is a number that is the same after reverse. For example, 545, 151, 34543, 343, 171, 48984 are the palindrome numbers.
+12. WAP to Count Number of Digits in an Integer
