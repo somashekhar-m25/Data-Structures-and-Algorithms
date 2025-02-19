@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 //12. WAP to Count Number of Digits in an Integer
-
 func main() {
 	CounterDigits(-12345678)
 }
