@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//WAP to Check Armstrong Number
 func main() {
 	ArmstrongNumber(153)
 }
