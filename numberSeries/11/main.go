@@ -4,7 +4,7 @@ import "fmt"
 
 //11. Palindrome Number A palindrome number is a number that is the same after reverse. For example, 545, 151, 34543, 343, 171, 48984 are the palindrome numbers.
 func main() {
-	PalindromeNumber(1000002)
+	PalindromeNumber(1000001)
 }
 
 func PalindromeNumber(num int) {
