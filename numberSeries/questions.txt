@@ -10,3 +10,7 @@
 10. How to Reverse a Number?
 11. Palindrome Number A palindrome number is a number that is the same after reverse. For example, 545, 151, 34543, 343, 171, 48984 are the palindrome numbers.
 12. WAP to Count Number of Digits in an Integer
+13. WAP to Check Armstrong Number
+14. Narcissistic Number is a number that is the sum of its own digits each raised to the power of the number of digits
+15.Disarium number Sum of its digits powered with their respective position is equal to the original number.
+16. WAP to Check Leap Year
