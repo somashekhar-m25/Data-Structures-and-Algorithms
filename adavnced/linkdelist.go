@@ -4,15 +4,15 @@ import "fmt"
 
 type node1 struct {
 	data int
-	next *node
+	next *node1
 }
 
 type linkedList struct {
-	head   *node
+	head   *node1
 	length int
 }
 
-func (l *linkedList) prepend(n *node) {
+func (l *linkedList) prepend(n *node1) {
 	h := l.head
 	n.next = h
 	l.head = n
@@ -51,12 +51,12 @@ func (l *linkedList) deleteData(val int) {
 
 func main() {
 	myList := linkedList{}
-	myList.prepend(&node{data: 1})
-	myList.prepend(&node{data: 2})
-	myList.prepend(&node{data: 3})
-	myList.prepend(&node{data: 4})
-	myList.prepend(&node{data: 5})
-	myList.prepend(&node{data: 6})
+	myList.prepend(&node1{data: 1})
+	myList.prepend(&node1{data: 2})
+	myList.prepend(&node1{data: 3})
+	myList.prepend(&node1{data: 4})
+	myList.prepend(&node1{data: 5})
+	myList.prepend(&node1{data: 6})
 	myList.printList()
 	myList.deleteData(9)
 	myList.printList()
